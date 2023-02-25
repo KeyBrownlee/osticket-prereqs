@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create a Virtual Machine with Windows 10
 - Install/Enable IIS in Windows with CGI 
-- Install Oticket and enable permissions in PHP manager
+- Install OSticket and enable permissions in PHP manager
 - Install Heidi SQL to allow database to be registered 
 - Successfully run OSTicket system 
 
@@ -47,9 +47,17 @@ After accessing the Virtual Machine through Remote Desktop we install and enable
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EoNa1FN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+PHP Manager permissions being enabled to allow OSticket to run and HeidiSQL database to be connected.  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wV74Izl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+New database being created in HeidiSQL and connected to Osticket.
 </p>
 <br />
