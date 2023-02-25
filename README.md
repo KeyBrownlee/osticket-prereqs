@@ -66,6 +66,6 @@ New database being created in HeidiSQL and connected to Osticket.
 <img src="https://i.imgur.com/xfAiKpb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Osticket has successfully been isntalled and the program is now open and running successfully! 
+Osticket has successfully been isntalled and the program is now open and running in the virtual machine! 
 </p>
 <br />
